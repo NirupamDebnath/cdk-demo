@@ -21,3 +21,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 6. git remote rm origin
 7. git remote add origin https://github.com/NirupamDebnath/cdk-demo.git
 8. git push origin main
+9. npx cdk list
+10. npx cdk synth
+11. npx cdk deploy
+12. npx cdk destroy
