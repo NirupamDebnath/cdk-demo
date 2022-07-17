@@ -25,3 +25,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 10. npx cdk synth
 11. npx cdk deploy
 12. npx cdk destroy
+13. npm install --save-dev esbuild@0
